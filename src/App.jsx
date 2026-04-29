@@ -1,7 +1,16 @@
-import React from "react";
-
+import { RouterProvider } from "react-router-dom";
+import { router } from "./routes/AppRoutes";
+import { useEffect } from "react";
+import Aos from "aos";
 const App = () => {
-  return <div>App</div>;
+  useEffect(() => {
+    Aos.init({
+      duration: 500,
+      easing: "ease-in-out",
+    });
+    Aos.refresh();
+  }, []);
+  return <RouterProvider router={router} />;
 };
 
 export default App;
