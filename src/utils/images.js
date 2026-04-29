@@ -18,7 +18,7 @@ import world from "@/assets/world.webp";
 import small from "@/assets/small.webp";
 import rich from "@/assets/Rich.webp";
 import ibmission from "@/assets/ibmission.jpg";
-import smooth from "@/assets/smooth.jpg";
+import smooth from "@/assets/Smooth.jpg";
 import inquiry from "@/assets/iquiry.jpg";
 import ibimage from "@/assets/ib.jpg";
 import cambridge from "@/assets/C.jpg";
