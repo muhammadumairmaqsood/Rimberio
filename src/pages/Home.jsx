@@ -11,7 +11,6 @@ import WhoWe from "@/components/common/WhoWe";
 import icons from "@/utils/icons";
 import { Volume2, VolumeX } from "lucide-react";
 import { useRef, useState } from "react";
-import { Link } from "react-router-dom";
 const Home = () => {
   const data = [
     {
