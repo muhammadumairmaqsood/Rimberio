@@ -16,7 +16,7 @@ import nurturing from "@/assets/N.jpg";
 import experienced from "@/assets/experience.jpg";
 import world from "@/assets/world.webp";
 import small from "@/assets/small.webp";
-import rich from "@/assets/rich.webp";
+import rich from "@/assets/Rich.webp";
 import ibmission from "@/assets/ibmission.jpg";
 import smooth from "@/assets/smooth.jpg";
 import inquiry from "@/assets/iquiry.jpg";
